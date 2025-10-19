@@ -1,0 +1,43 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "D:/Technology_Semester3/EmbeddedSystems/Assignments/Timers/Output/Output_C/include",
+                "D:/Technology_Semester3/EmbeddedSystems/Assignments/Timers/Output/Output_C/src",
+                "C:/Users/miret/.platformio/packages/framework-cmsis/CMSIS/Include",
+                "C:/Users/miret/.platformio/packages/framework-cmsis-stm32f3/Include",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "D:/Technology_Semester3/EmbeddedSystems/Assignments/Timers/Output/Output_C/include",
+                    "D:/Technology_Semester3/EmbeddedSystems/Assignments/Timers/Output/Output_C/src",
+                    "C:/Users/miret/.platformio/packages/framework-cmsis/CMSIS/Include",
+                    "C:/Users/miret/.platformio/packages/framework-cmsis-stm32f3/Include",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60118",
+                "STM32F3",
+                "STM32F303xE",
+                "F_CPU=72000000L",
+                ""
+            ],
+            "compilerPath": "C:/Users/miret/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m4",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

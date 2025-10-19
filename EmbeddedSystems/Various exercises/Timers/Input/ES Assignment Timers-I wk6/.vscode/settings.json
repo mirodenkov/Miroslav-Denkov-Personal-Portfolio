@@ -1,0 +1,7 @@
+{
+    "gitlens.plusFeatures.enabled": true,
+    "gitlens.virtualRepositories.enabled": true,
+    "gitlens.codeLens.enabled": true,
+    "gitlens.codeLens.authors.enabled": true,
+    "gitlens.codeLens.recentChange.enabled": true
+}

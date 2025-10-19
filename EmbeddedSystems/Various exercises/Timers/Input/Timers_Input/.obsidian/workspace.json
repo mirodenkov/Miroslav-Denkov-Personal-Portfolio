@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "fd6dc5ff3c544691",
+    "type": "split",
+    "children": [
+      {
+        "id": "5298bfb5afcc4914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6494b00e871c5a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timers Input Technical Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timers Input Technical Report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a916751684c41e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c26be4bc6d68ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f0bdc324d860664",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c60ac513705f6fa7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5879062403aac5f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0494abe1575c02e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ecb9fc64fd7022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a03f9dadc7e279aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Timers Input Technical Report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Timers Input Technical Report"
+            }
+          },
+          {
+            "id": "fb7907b3fee27afd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Timers Input Technical Report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Timers Input Technical Report"
+            }
+          },
+          {
+            "id": "123b2b2b919c099c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f02fb36a027cde5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Timers Input Technical Report.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Timers Input Technical Report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a6494b00e871c5a1",
+  "lastOpenFiles": [
+    "Pasted image 20250601231107.png",
+    "Pasted image 20250601145047.png",
+    "Timers Input Technical Report.md",
+    "Pasted image 20250526111453.png",
+    "Pasted image 20250526110231.png",
+    "Welcome.md",
+    "Untitled"
+  ]
+}
