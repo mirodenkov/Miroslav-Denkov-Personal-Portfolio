@@ -1,6 +1,6 @@
 # Hi 👋, I'm Miroslav Denkov
 
-### A passioante developer and cyber-security enthusiast, currently based in the Netherlands
+### A passioante ICT student at Fontys UAS, currently based in the Netherlands.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirodenkov&label=Profile views&color=0e75b6&style=flat" alt="mirodenkov" /> </p>
 
