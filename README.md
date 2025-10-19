@@ -2,8 +2,6 @@
 
 ### A passioante ICT student at Fontys UAS, currently based in the Netherlands.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirodenkov&label=Profile views&color=0e75b6&style=flat" alt="mirodenkov" /> </p>
-
 - 💬 Ask me about **C++, embedded software development, cyber-security**
 
 - 📫 How to reach me **miroslav-denkov-work@pm.me**
