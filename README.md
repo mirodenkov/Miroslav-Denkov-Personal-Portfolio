@@ -2,7 +2,7 @@
 
 ### A passioante ICT student at Fontys UAS, currently based in the Netherlands.
 
-- 💬 Ask me about **C++, embedded software development, cyber-security**
+- 💬 Ask me about **C++, embedded software development**
 
 - 📫 How to reach me **miroslav-denkov-work@pm.me**
 
