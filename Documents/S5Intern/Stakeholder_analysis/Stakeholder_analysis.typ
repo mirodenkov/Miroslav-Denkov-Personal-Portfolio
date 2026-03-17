@@ -13,7 +13,7 @@
     "../../../Logos/RosLogo.png",
     height: 0.7em,
   ))
-  
+
 ]
 #let hocean = rgb("#70f2e1")
 
@@ -25,8 +25,7 @@
 #text()[= Introduction]
 
 
-In this document you will find information on stakeholders and their connection to the project.
-As such please follow the table below.
+In this document you will find information on stakeholders and their connection to the project. You will find stakeholders and their expectations at @shtable
 
 = Project Description
 The project itself consists of the development of a Python API to control the robot arm. The arm must be able to plan its trajectory without colliding with external equipment. The stakeholders want to know if ROS2 could be leveraged for this task.
@@ -37,14 +36,19 @@ The project itself consists of the development of a Python API to control the ro
 
 = Stakeholder table
 
-#table(
-  columns: 4,
-  table.header[Name][Role][Description][Expectations],
-  [Miroslav Denkov],
-  [Developer],
-  [*Myself,* the author of this document and the developer working on this project.],
-  [],
+#figure(
+  table(
+    columns: 4,
+    table.header[Name][Role][Description][Expectations],
+    [Miroslav Denkov],
+    [Developer],
+    [*Myself,* theauthor of this document and the developer working on this project.],
+    [I expect from myself to deliver a good product by end of the project, based on the requirements provided by the stakeholders. ],
 
-  [Joris Geurts], [Company Mentor], [], [],
-  [Fontys ICT ], [Stakeholder], [], [],
-)
+    [Joris Geurts], [Company Mentor], [Mentor and educator in the Robotlab at Fontys ICT. ], [He is to provide guidance and feedback during the course of the project and make sure the intern's solutions stay in line of the project's goals],
+    [Fontys Hogeschool], [Stakeholder], [Parent Company of Robotlab. Provides funding, internship allowance, equipment and is employer of faculty], [They expect a good professional solution to the problem at hand.],
+  ),
+  caption: [Stakeholder Table],
+)<shtable>
+NB: For project requirements and details refer to Project Plan and Requirements Document.
+
