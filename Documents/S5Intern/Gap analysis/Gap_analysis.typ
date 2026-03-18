@@ -68,6 +68,12 @@ Now as seen in @basetr, the arm is currently in a functioning state. UFactory su
 
 #figure(image("../../../Tables and diagrams/Updated_project_timeline.drawio.png"), caption:[Trajectory in more detail])<updtr>
 
+Based on @updtr, we can deduce the gaps to the following:
++ No trajectory planning implemented.<no_trajectory>
++ No ROS support. <no_ros>
++ No environment for ROS, nor simulation.<no_sim>
+
+
 = Priority Matrix
 As the project evolves so must the plan to tackle each challenge evolve with it. Making sure that the most important actions are prioritized to breach the gap between un-finished and finished product.
 
@@ -76,15 +82,17 @@ As the project evolves so must the plan to tackle each challenge evolve with it.
     columns: 4,
     table.header[*Priority*][*Description*][*Timeframe*][*Gap*],
     //Row 1
-    [Critical],[],[],[],
+    [Critical],[Gap that requires immediate attention and is essential to be done, usually more complex problems that require more time.],[2 weeks],[+ No environment for ROS, nor simulation.
+    + No ROS support.],
     //Row 2
-    [High],[],[],[],
+    [High],[Gaps that are in high priority and are to be adressed as quick as possible.],[1 week],[+ No trajectory planning implemented.
+    ],
     // Row 3
-    [Medium],[],[],[],
+    [Medium],[Gaps that are lesser priority than high and but attention is not needed immediately.],[less than a week],[],
     // Row 4
-    [Low],[],[],[],
+    [Low],[Gaps that need to be closed the last(after medium priority gaps)],[less than half a week],[],
   ),caption: [Priority Matrix]
 )<prmatrix>
 = Recommendations
-
+I recommend to start addressing the development environment and simulation for ROS. Then move onto trajectory planning solutions
 

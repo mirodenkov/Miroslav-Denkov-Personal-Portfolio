@@ -28,7 +28,7 @@
 #line(length: 100%)
 
 = Introduction
-
+In this document a trail of any feedback recieved will be documented and reflected upon. Expect the document to be updated regulary as new feedback is recieved.
 = Feedpulse Feedback
 
 = Peer Feedback
