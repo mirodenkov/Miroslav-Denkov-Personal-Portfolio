@@ -1,0 +1,1 @@
+/home/pyronit3/Miroslav-Denkov-Personal-Portfolio/Rust/Chapter\ 3/chapter3_tests/target/debug/chapter3_tests: /home/pyronit3/Miroslav-Denkov-Personal-Portfolio/Rust/Chapter\ 3/chapter3_tests/src/main.rs
