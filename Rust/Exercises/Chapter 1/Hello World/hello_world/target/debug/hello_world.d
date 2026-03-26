@@ -1,0 +1,1 @@
+/home/pyronit3/Miroslav-Denkov-Personal-Portfolio/Rust/Exercises/Chapter\ 1/Hello\ World/hello_world/target/debug/hello_world: /home/pyronit3/Miroslav-Denkov-Personal-Portfolio/Rust/Exercises/Chapter\ 1/Hello\ World/hello_world/src/main.rs
