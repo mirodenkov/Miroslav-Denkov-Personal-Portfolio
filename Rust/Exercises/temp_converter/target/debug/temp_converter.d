@@ -1,0 +1,1 @@
+/home/pyronit3/Miroslav-Denkov-Personal-Portfolio/Rust/Exercises/temp_converter/target/debug/temp_converter: /home/pyronit3/Miroslav-Denkov-Personal-Portfolio/Rust/Exercises/temp_converter/src/functions.rs /home/pyronit3/Miroslav-Denkov-Personal-Portfolio/Rust/Exercises/temp_converter/src/main.rs

@@ -1,0 +1,1 @@
+/home/pyronit3/Miroslav-Denkov-Personal-Portfolio/Rust/Exercises/twelve_days_of_christmas/target/debug/twelve_days_of_christmas: /home/pyronit3/Miroslav-Denkov-Personal-Portfolio/Rust/Exercises/twelve_days_of_christmas/src/main.rs
