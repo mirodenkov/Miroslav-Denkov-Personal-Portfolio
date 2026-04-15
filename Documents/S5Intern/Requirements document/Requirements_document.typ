@@ -91,7 +91,7 @@ The assignment consists in the continuation of a self-developed API protocol for
     [The system must be able to detect joint movement limit],
     [],
     [],
-    [The system should have automatic positioning calibration],
+    [],
   ),
   caption: [MoSCoW table],
 )<moscow>
