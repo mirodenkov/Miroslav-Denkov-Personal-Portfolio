@@ -100,10 +100,13 @@ The job of the arm is to transport low-weight payload(a small spot plate) from a
 The Lite 6 model is one of the best budget options UFactory provides and its low-weight payload handling(up to 600 grams) is a great match for what the robot's function will be.All with having a cost of 4200\$ for an entire set(gripper, vacuum gripper etc.),quite cheap compared to other models.
 
 As mentioned above, UFactory also provides users with a Python SDK that allows engineers to control and automate arm functions with code.
-The SDK can be accessed through the SDK(by setting up a Python virtual environment). Additionally, the software is open-source and transparent and can be accessed by anyone from UFactory's website, leading to their Github page. 
+The software is open-source and transparent and can be accessed by anyone from UFactory's website, leading to their Github page. 
 
 = How the Python SDK can be leveraged for trajecotry planning for UFactory Lite 6?logo_lib logo_field logo_lab
 
+The SDK is meticulously crafted by the individuals at UFactory, for the sole purpose of easily writing software for the arm. Utilizing the extensive functionality of the API is a vital part of making the hardware do what one needs it to do.
+
+The only way to explore what the SDK is capable of, is to pracitcally write code and experiment.
 
 = Conclusion
 
