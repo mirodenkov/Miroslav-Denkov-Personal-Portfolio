@@ -27,7 +27,7 @@
   ))
   #name
 ]
-#show "logo_opentrons": name => box[
+#show "logo_opentrons" : name => box[
   #box(image(
     "../../../Logos/Opentrons'_Logo.png",
     height: 0.7em,
