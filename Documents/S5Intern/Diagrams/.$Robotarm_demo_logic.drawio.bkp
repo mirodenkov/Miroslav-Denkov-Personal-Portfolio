@@ -1,0 +1,53 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.5.2 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="YTcFcwB1cKMn9prlBoJT">
+    <mxGraphModel dx="2084" dy="1276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7jqYHePwtTnegDWTc-ws-2" edge="1" parent="1" source="7jqYHePwtTnegDWTc-ws-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Start" vertex="1">
+          <mxGeometry height="100" width="100" x="350" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-4" edge="1" parent="1" source="7jqYHePwtTnegDWTc-ws-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Return to home position" vertex="1">
+          <mxGeometry height="100" width="100" x="350" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-7" edge="1" parent="1" source="7jqYHePwtTnegDWTc-ws-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7jqYHePwtTnegDWTc-ws-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Grab payload" vertex="1">
+          <mxGeometry height="100" width="100" x="350" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-9" edge="1" parent="1" source="7jqYHePwtTnegDWTc-ws-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7jqYHePwtTnegDWTc-ws-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Draw a square while holding payload" vertex="1">
+          <mxGeometry height="100" width="100" x="350" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-11" edge="1" parent="1" source="7jqYHePwtTnegDWTc-ws-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7jqYHePwtTnegDWTc-ws-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Place back payload" vertex="1">
+          <mxGeometry height="100" width="100" x="350" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Return to home" vertex="1">
+          <mxGeometry height="100" width="100" x="350" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="END" vertex="1">
+          <mxGeometry height="60" width="100" x="350" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="7jqYHePwtTnegDWTc-ws-13" edge="1" parent="1" source="7jqYHePwtTnegDWTc-ws-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="7jqYHePwtTnegDWTc-ws-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
