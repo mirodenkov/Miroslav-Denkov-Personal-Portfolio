@@ -13,7 +13,67 @@
     "../../../Logos/RosLogo.png",
     height: 0.7em,
   ))
+]
+#show "logo_lib": name => box[
+  #box(image(
+    "../../../Logos/Logo-library.png",
+    height: 0.7em,
+  ))
+]
+#show "DOT": name => box[
+  #box(image(
+    "../../../Logos/DOT-Framework-1f52362b.jpg",
+    height: 0.7em,
+  ))
+  #name
+]
+#show "logo_opentrons": name => box[
+  #box(image(
+    "../../../Logos/Opentrons'_Logo.png",
+    height: 0.7em,
+  ))
+]
+#show "UFactory": name => box[
+  #box(image(
+    "../../../Logos/X-ARM_logo.gif",
+    height: 0.7em,
+  ))
+  #name
+]
+#let hocean = rgb("#70f2e1")
 
+#show "Github": name => box[
+  #box(image(
+    "../../../Logos/GitHub_Invertocat_Black_Clearspace.png",
+    height: 1.30em,
+  ))
+  #name
+]
+#show "logo_field": name => box[
+  #box(image(
+    "../../../Logos/Logo-field.png",
+    height: 0.7em,
+  ))
+
+]
+#show "logo_lab": name => box[
+  #box(image(
+    "../../../Logos/Logo-lab.png",
+    height: 0.7em,
+  ))
+]
+
+#show "logo_showroom": name => box[
+  #box(image(
+    "../../../Logos/Logo-showroom.png",
+    height: 0.7em,
+  ))
+]
+#show "logo_workshop": name => box[
+  #box(image(
+    "../../../Logos/Logo-workshop.png",
+    height: 0.7em,
+  ))
 ]
 #let hocean = rgb("#70f2e1")
 #show heading.where(numbering: none, level: 1): it => align(center, text(size: 24pt, it.body))
@@ -95,4 +155,36 @@ As the project evolves so must the plan to tackle each challenge evolve with it.
 )<prmatrix>
 = Recommendations
 I recommend to start addressing the development environment and simulation for ROS. Then move onto trajectory planning solutions
+
+
+#table(
+  columns: 3,
+  [*DOT Method*], [*Description*], [*Symbol*],
+  inset: 10pt,
+
+  // Row 1
+  [Library],
+  ["Library research is done to explore what is already done and what guidelines and theories exist that could help you further your design. Since the advent of the internet library research is also called desk research."],
+  [logo_lib],
+
+  // Row 2
+  [Field],
+  ["Field research is done to explore the application context. You apply a field strategy to get to know your end users, their needs, desires and limitations as organizational and physical contexts in which they will use your product."],
+  [logo_field],
+
+  // Row 3
+  [Lab],
+  ["Lab research is done to test your ideas with the users of your product. You use lab research to learn if things work out the way you intended them."],
+  [logo_lab],
+
+  // Row 4
+  [Showroom],
+  ["Showroom research is done to test your ideas in relation to existing work. Showing your prototype to experts can be a form of showroom research or spelling out how your product is different from the competition."],
+  [logo_showroom],
+
+  // Row 5
+  [Workshop],
+  ["Workshop research is done to explore opportunities. Prototyping, sketching and co-creation activities are all ways to gain insights in what is possible and how things could work."],
+  [logo_workshop],
+)
 
