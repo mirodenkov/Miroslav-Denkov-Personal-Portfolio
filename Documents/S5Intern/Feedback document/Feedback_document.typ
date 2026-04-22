@@ -37,16 +37,9 @@
 )<changelog>
 
 = Introduction
-In this document a trail of any feedback recieved will be documented and reflected upon. Expect the document to be updated regulary as new feedback is recieved. For changes refer to
+In this document a trail of any feedback received will be documented and reflected upon. Expect the document to be updated regularly as new feedback is received. For changes refer to
 #text[#highlight[@changelog]].
-= Feedpulse Feedback collection
 
-#align(center,image("Feedpulse_18_MArch_Part2.png", width: 70%))
-
-#figure(
-  image("Feedpulse_18_March_Part1.png", width: 70%),
-  caption: [Collected feedback from feedpulse until 18.02.2026],
-)<FPFeedback1>
 #text(size: 18pt)[]
 = Peer Feedback collection
 To be added
