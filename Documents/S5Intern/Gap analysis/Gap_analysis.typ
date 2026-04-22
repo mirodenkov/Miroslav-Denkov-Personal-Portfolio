@@ -75,7 +75,6 @@
     height: 0.7em,
   ))
 ]
-#let hocean = rgb("#70f2e1")
 #show heading.where(numbering: none, level: 1): it => align(center, text(size: 24pt, it.body))
 #show heading.where(numbering: none, level: 2): it => align(center, text(size: 20pt, it.body))
 #show heading.where(numbering: none, level: 3): it => align(center, text(size: 16pt, it.body))
