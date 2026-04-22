@@ -88,8 +88,11 @@
 #line(length: 100%)
 = Executive Summary
 The purpose of this analysis is to determine the gap between the current state of the project and what actions must be undertaken to close it(More information about the project is in the Project Plan).
+For more information on DOT and sources refer to the #link(<appendix>)[Appendix] section.
 = What is the Scope & Objectives? logo_field
 The current scope of the project is to automate and secure the trajectory planning of the arm, by providing a solution to the algorithm.
+Trajectory planning should happen using UFactory's implementation of ROS 2 environment for robot arm model Lite 6.
+
 #figure(
   table(
     columns: 4,
@@ -109,11 +112,15 @@ The current scope of the project is to automate and secure the trajectory planni
   caption: [MoSCoW table],
 )<moscow>
 = How the current state measures up to standard?logo_lib logo_field
-The current state of the system is in acceptable condition, though it is far from the final product that is to be used by end users for any kind of scientific research
-
+During my tours of the project and hardware with my company mentor. It could be deducted that that
+the machine itself is in fully operational state, though it is not yet ready to be implemented in the automated 
+lab environment. From experimenting and contact with previous interns, the arm functions only on the default Python API
+and has no version of ROS implemented.
 = What is the desired state? logo_field
-The desired state of the system is it being able to carry payload from an Opentron pipetting robot to a Tecan plate analyzer, without collision. The arm must be aware of its positioning in 3D space and calibrate itself to compensate for changes of space, distance and position.
+The desired state of the system is it being able to carry payload from an logo_opentronsOpentrons pipetting robot to a Tecan plate analyzer, without collision. The arm must be aware of its positioning in 3D space and calibrate itself to compensate for changes of space, distance and position.
+This must also happen in ROS environment.
 = What are the gaps? logo_lib logo_field
+I will showcase the project's trajectory using the diagram below.
 From the point we find ourselves in, point A, we must reach point B, which would be the desired state of the product by the end of the project.
 
 #figure(
@@ -136,7 +143,7 @@ Based on @updtr, we can deduce the gaps to the following:
 + No environment for ROS, nor simulation.<no_sim>
 
 
-= Priority Matrix
+= Priority Matrix logo_field
 As the project evolves so must the plan to tackle each challenge evolve with it. Making sure that the most important actions are prioritized to breach the gap between un-finished and finished product.
 
 #figure(
@@ -173,7 +180,20 @@ I recommend to start addressing the development environment and simulation for R
 
 = Appendix <appendix>
 
-= Bibliography
+== Bibliography
+HBO-i. “ICT Research Methods — Methods Pack for Research in ICT.” ICT Research Methods, https://ictresearchmethods.nl/. Accessed 22 Apr. 2026.
+\
+xArm-Developer/Xarm_ros2. 15 June 2021, Python. UFACTORY, 21 Apr. 2026. GitHub, https://github.com/xArm-Developer/xarm_ros2.\
+ROS 2 Documentation — ROS 2 Documentation: Foxy Documentation. https://docs.ros.org/en/foxy/index.html. Accessed 22 Apr. 2026.\
+ROS 2 Documentation — ROS 2 Documentation: Humble Documentation. https://docs.ros.org/en/humble/index.html. Accessed 22 Apr. 2026.
+\
+MoveIt 2 Documentation — MoveIt Documentation: Rolling Documentation. https://moveit.picknik.ai/main/index.html. Accessed 22 Apr. 2026.
+\
+“OT-2 Robot - Opentrons.” Opentrons.Com, https://opentrons.com/products/ot-2-robot. Accessed 22 Apr. 2026.
+\
+AG, Tecan Trading. Multimode Microplate Reader, Live Cell Assays. https://lifesciences.tecan.com/multimode-plate-reader. Accessed 22 Apr. 2026.
+\
+
 
 
 == DOT table
