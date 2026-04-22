@@ -171,7 +171,11 @@ As the project evolves so must the plan to tackle each challenge evolve with it.
 = What do I recommend?
 I recommend to start addressing the development environment and simulation for ROS. Then move onto trajectory planning solutions
 
-= Appendix
+= Appendix <appendix>
+
+= Bibliography
+
+
 == DOT table
 In this document, you will see icons such as  logo_field, without any follow-up text like Python. This is done to maximize information output with minimal lexical hindrance.
 
