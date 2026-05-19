@@ -42,8 +42,6 @@ In this document a trail of any feedback received will be documented and reflect
 
 #text(size: 18pt)[]
 = Peer Feedback collection
-To be added
 = First Assesor Feedback collection
-To be added
 = Final conclusions
 Final reflection will be added after all evidence is collected, the document will be updated.
